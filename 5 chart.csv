@@ -1,0 +1,2070 @@
+{
+"date": "1971 Q1",
+"label": "1971 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9022",
+"year": "1971"
+},
+{
+"date": "1971 Q2",
+"label": "1971 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9016",
+"year": "1971"
+},
+{
+"date": "1971 Q3",
+"label": "1971 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9002",
+"year": "1971"
+},
+{
+"date": "1971 Q4",
+"label": "1971 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "8994",
+"year": "1971"
+},
+{
+"date": "1972 Q1",
+"label": "1972 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9048",
+"year": "1972"
+},
+{
+"date": "1972 Q2",
+"label": "1972 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9080",
+"year": "1972"
+},
+{
+"date": "1972 Q3",
+"label": "1972 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9120",
+"year": "1972"
+},
+{
+"date": "1972 Q4",
+"label": "1972 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9180",
+"year": "1972"
+},
+{
+"date": "1973 Q1",
+"label": "1973 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9282",
+"year": "1973"
+},
+{
+"date": "1973 Q2",
+"label": "1973 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9342",
+"year": "1973"
+},
+{
+"date": "1973 Q3",
+"label": "1973 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9376",
+"year": "1973"
+},
+{
+"date": "1973 Q4",
+"label": "1973 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9422",
+"year": "1973"
+},
+{
+"date": "1974 Q1",
+"label": "1974 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9455",
+"year": "1974"
+},
+{
+"date": "1974 Q2",
+"label": "1974 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9492",
+"year": "1974"
+},
+{
+"date": "1974 Q3",
+"label": "1974 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9543",
+"year": "1974"
+},
+{
+"date": "1974 Q4",
+"label": "1974 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9562",
+"year": "1974"
+},
+{
+"date": "1975 Q1",
+"label": "1975 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9553",
+"year": "1975"
+},
+{
+"date": "1975 Q2",
+"label": "1975 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9552",
+"year": "1975"
+},
+{
+"date": "1975 Q3",
+"label": "1975 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9545",
+"year": "1975"
+},
+{
+"date": "1975 Q4",
+"label": "1975 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9539",
+"year": "1975"
+},
+{
+"date": "1976 Q1",
+"label": "1976 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9527",
+"year": "1976"
+},
+{
+"date": "1976 Q2",
+"label": "1976 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9527",
+"year": "1976"
+},
+{
+"date": "1976 Q3",
+"label": "1976 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9536",
+"year": "1976"
+},
+{
+"date": "1976 Q4",
+"label": "1976 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9556",
+"year": "1976"
+},
+{
+"date": "1977 Q1",
+"label": "1977 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9578",
+"year": "1977"
+},
+{
+"date": "1977 Q2",
+"label": "1977 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9596",
+"year": "1977"
+},
+{
+"date": "1977 Q3",
+"label": "1977 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9622",
+"year": "1977"
+},
+{
+"date": "1977 Q4",
+"label": "1977 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9653",
+"year": "1977"
+},
+{
+"date": "1978 Q1",
+"label": "1978 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9692",
+"year": "1978"
+},
+{
+"date": "1978 Q2",
+"label": "1978 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9735",
+"year": "1978"
+},
+{
+"date": "1978 Q3",
+"label": "1978 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9776",
+"year": "1978"
+},
+{
+"date": "1978 Q4",
+"label": "1978 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9843",
+"year": "1978"
+},
+{
+"date": "1979 Q1",
+"label": "1979 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9874",
+"year": "1979"
+},
+{
+"date": "1979 Q2",
+"label": "1979 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9919",
+"year": "1979"
+},
+{
+"date": "1979 Q3",
+"label": "1979 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9984",
+"year": "1979"
+},
+{
+"date": "1979 Q4",
+"label": "1979 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10045",
+"year": "1979"
+},
+{
+"date": "1980 Q1",
+"label": "1980 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10065",
+"year": "1980"
+},
+{
+"date": "1980 Q2",
+"label": "1980 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10065",
+"year": "1980"
+},
+{
+"date": "1980 Q3",
+"label": "1980 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10055",
+"year": "1980"
+},
+{
+"date": "1980 Q4",
+"label": "1980 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10023",
+"year": "1980"
+},
+{
+"date": "1981 Q1",
+"label": "1981 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9991",
+"year": "1981"
+},
+{
+"date": "1981 Q2",
+"label": "1981 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9957",
+"year": "1981"
+},
+{
+"date": "1981 Q3",
+"label": "1981 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9927",
+"year": "1981"
+},
+{
+"date": "1981 Q4",
+"label": "1981 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9899",
+"year": "1981"
+},
+{
+"date": "1982 Q1",
+"label": "1982 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9870",
+"year": "1982"
+},
+{
+"date": "1982 Q2",
+"label": "1982 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9846",
+"year": "1982"
+},
+{
+"date": "1982 Q3",
+"label": "1982 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9801",
+"year": "1982"
+},
+{
+"date": "1982 Q4",
+"label": "1982 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9747",
+"year": "1982"
+},
+{
+"date": "1983 Q1",
+"label": "1983 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9711",
+"year": "1983"
+},
+{
+"date": "1983 Q2",
+"label": "1983 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9745",
+"year": "1983"
+},
+{
+"date": "1983 Q3",
+"label": "1983 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9849",
+"year": "1983"
+},
+{
+"date": "1983 Q4",
+"label": "1983 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "9962",
+"year": "1983"
+},
+{
+"date": "1984 Q1",
+"label": "1984 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10033",
+"year": "1984"
+},
+{
+"date": "1984 Q2",
+"label": "1984 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10098",
+"year": "1984"
+},
+{
+"date": "1984 Q3",
+"label": "1984 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10147",
+"year": "1984"
+},
+{
+"date": "1984 Q4",
+"label": "1984 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10217",
+"year": "1984"
+},
+{
+"date": "1985 Q1",
+"label": "1985 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10273",
+"year": "1985"
+},
+{
+"date": "1985 Q2",
+"label": "1985 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10330",
+"year": "1985"
+},
+{
+"date": "1985 Q3",
+"label": "1985 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10387",
+"year": "1985"
+},
+{
+"date": "1985 Q4",
+"label": "1985 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10440",
+"year": "1985"
+},
+{
+"date": "1986 Q1",
+"label": "1986 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10470",
+"year": "1986"
+},
+{
+"date": "1986 Q2",
+"label": "1986 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10522",
+"year": "1986"
+},
+{
+"date": "1986 Q3",
+"label": "1986 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10580",
+"year": "1986"
+},
+{
+"date": "1986 Q4",
+"label": "1986 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10650",
+"year": "1986"
+},
+{
+"date": "1987 Q1",
+"label": "1987 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10697",
+"year": "1987"
+},
+{
+"date": "1987 Q2",
+"label": "1987 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10790",
+"year": "1987"
+},
+{
+"date": "1987 Q3",
+"label": "1987 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "10893",
+"year": "1987"
+},
+{
+"date": "1987 Q4",
+"label": "1987 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11003",
+"year": "1987"
+},
+{
+"date": "1988 Q1",
+"label": "1988 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11093",
+"year": "1988"
+},
+{
+"date": "1988 Q2",
+"label": "1988 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11180",
+"year": "1988"
+},
+{
+"date": "1988 Q3",
+"label": "1988 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11300",
+"year": "1988"
+},
+{
+"date": "1988 Q4",
+"label": "1988 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11413",
+"year": "1988"
+},
+{
+"date": "1989 Q1",
+"label": "1989 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11530",
+"year": "1989"
+},
+{
+"date": "1989 Q2",
+"label": "1989 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11590",
+"year": "1989"
+},
+{
+"date": "1989 Q3",
+"label": "1989 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11617",
+"year": "1989"
+},
+{
+"date": "1989 Q4",
+"label": "1989 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11680",
+"year": "1989"
+},
+{
+"date": "1990 Q1",
+"label": "1990 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11700",
+"year": "1990"
+},
+{
+"date": "1990 Q2",
+"label": "1990 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11742",
+"year": "1990"
+},
+{
+"date": "1990 Q3",
+"label": "1990 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11750",
+"year": "1990"
+},
+{
+"date": "1990 Q4",
+"label": "1990 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11725",
+"year": "1990"
+},
+{
+"date": "1991 Q1",
+"label": "1991 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11665",
+"year": "1991"
+},
+{
+"date": "1991 Q2",
+"label": "1991 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11608",
+"year": "1991"
+},
+{
+"date": "1991 Q3",
+"label": "1991 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11557",
+"year": "1991"
+},
+{
+"date": "1991 Q4",
+"label": "1991 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11500",
+"year": "1991"
+},
+{
+"date": "1992 Q1",
+"label": "1992 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11495",
+"year": "1992"
+},
+{
+"date": "1992 Q2",
+"label": "1992 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11487",
+"year": "1992"
+},
+{
+"date": "1992 Q3",
+"label": "1992 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11474",
+"year": "1992"
+},
+{
+"date": "1992 Q4",
+"label": "1992 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11458",
+"year": "1992"
+},
+{
+"date": "1993 Q1",
+"label": "1993 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11439",
+"year": "1993"
+},
+{
+"date": "1993 Q2",
+"label": "1993 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11471",
+"year": "1993"
+},
+{
+"date": "1993 Q3",
+"label": "1993 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11507",
+"year": "1993"
+},
+{
+"date": "1993 Q4",
+"label": "1993 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11498",
+"year": "1993"
+},
+{
+"date": "1994 Q1",
+"label": "1994 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11529",
+"year": "1994"
+},
+{
+"date": "1994 Q2",
+"label": "1994 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11566",
+"year": "1994"
+},
+{
+"date": "1994 Q3",
+"label": "1994 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11578",
+"year": "1994"
+},
+{
+"date": "1994 Q4",
+"label": "1994 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11567",
+"year": "1994"
+},
+{
+"date": "1995 Q1",
+"label": "1995 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11627",
+"year": "1995"
+},
+{
+"date": "1995 Q2",
+"label": "1995 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11670",
+"year": "1995"
+},
+{
+"date": "1995 Q3",
+"label": "1995 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11730",
+"year": "1995"
+},
+{
+"date": "1995 Q4",
+"label": "1995 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11810",
+"year": "1995"
+},
+{
+"date": "1996 Q1",
+"label": "1996 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11833",
+"year": "1996"
+},
+{
+"date": "1996 Q2",
+"label": "1996 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11846",
+"year": "1996"
+},
+{
+"date": "1996 Q3",
+"label": "1996 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11861",
+"year": "1996"
+},
+{
+"date": "1996 Q4",
+"label": "1996 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11934",
+"year": "1996"
+},
+{
+"date": "1997 Q1",
+"label": "1997 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "11990",
+"year": "1997"
+},
+{
+"date": "1997 Q2",
+"label": "1997 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12073",
+"year": "1997"
+},
+{
+"date": "1997 Q3",
+"label": "1997 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12086",
+"year": "1997"
+},
+{
+"date": "1997 Q4",
+"label": "1997 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12103",
+"year": "1997"
+},
+{
+"date": "1998 Q1",
+"label": "1998 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12121",
+"year": "1998"
+},
+{
+"date": "1998 Q2",
+"label": "1998 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12143",
+"year": "1998"
+},
+{
+"date": "1998 Q3",
+"label": "1998 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12227",
+"year": "1998"
+},
+{
+"date": "1998 Q4",
+"label": "1998 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12303",
+"year": "1998"
+},
+{
+"date": "1999 Q1",
+"label": "1999 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12344",
+"year": "1999"
+},
+{
+"date": "1999 Q2",
+"label": "1999 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12361",
+"year": "1999"
+},
+{
+"date": "1999 Q3",
+"label": "1999 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12420",
+"year": "1999"
+},
+{
+"date": "1999 Q4",
+"label": "1999 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12479",
+"year": "1999"
+},
+{
+"date": "2000 Q1",
+"label": "2000 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12496",
+"year": "2000"
+},
+{
+"date": "2000 Q2",
+"label": "2000 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12568",
+"year": "2000"
+},
+{
+"date": "2000 Q3",
+"label": "2000 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12630",
+"year": "2000"
+},
+{
+"date": "2000 Q4",
+"label": "2000 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12603",
+"year": "2000"
+},
+{
+"date": "2001 Q1",
+"label": "2001 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12615",
+"year": "2001"
+},
+{
+"date": "2001 Q2",
+"label": "2001 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12704",
+"year": "2001"
+},
+{
+"date": "2001 Q3",
+"label": "2001 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12677",
+"year": "2001"
+},
+{
+"date": "2001 Q4",
+"label": "2001 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12750",
+"year": "2001"
+},
+{
+"date": "2002 Q1",
+"label": "2002 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12774",
+"year": "2002"
+},
+{
+"date": "2002 Q2",
+"label": "2002 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12853",
+"year": "2002"
+},
+{
+"date": "2002 Q3",
+"label": "2002 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12856",
+"year": "2002"
+},
+{
+"date": "2002 Q4",
+"label": "2002 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12874",
+"year": "2002"
+},
+{
+"date": "2003 Q1",
+"label": "2003 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12905",
+"year": "2003"
+},
+{
+"date": "2003 Q2",
+"label": "2003 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12918",
+"year": "2003"
+},
+{
+"date": "2003 Q3",
+"label": "2003 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "12955",
+"year": "2003"
+},
+{
+"date": "2003 Q4",
+"label": "2003 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13028",
+"year": "2003"
+},
+{
+"date": "2004 Q1",
+"label": "2004 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13087",
+"year": "2004"
+},
+{
+"date": "2004 Q2",
+"label": "2004 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13091",
+"year": "2004"
+},
+{
+"date": "2004 Q3",
+"label": "2004 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13101",
+"year": "2004"
+},
+{
+"date": "2004 Q4",
+"label": "2004 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13193",
+"year": "2004"
+},
+{
+"date": "2005 Q1",
+"label": "2005 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13258",
+"year": "2005"
+},
+{
+"date": "2005 Q2",
+"label": "2005 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13276",
+"year": "2005"
+},
+{
+"date": "2005 Q3",
+"label": "2005 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13357",
+"year": "2005"
+},
+{
+"date": "2005 Q4",
+"label": "2005 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13307",
+"year": "2005"
+},
+{
+"date": "2006 Q1",
+"label": "2006 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13439",
+"year": "2006"
+},
+{
+"date": "2006 Q2",
+"label": "2006 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13454",
+"year": "2006"
+},
+{
+"date": "2006 Q3",
+"label": "2006 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13443",
+"year": "2006"
+},
+{
+"date": "2006 Q4",
+"label": "2006 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13463",
+"year": "2006"
+},
+{
+"date": "2007 Q1",
+"label": "2007 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13436",
+"year": "2007"
+},
+{
+"date": "2007 Q2",
+"label": "2007 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13483",
+"year": "2007"
+},
+{
+"date": "2007 Q3",
+"label": "2007 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13536",
+"year": "2007"
+},
+{
+"date": "2007 Q4",
+"label": "2007 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13628",
+"year": "2007"
+},
+{
+"date": "2008 Q1",
+"label": "2008 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13678",
+"year": "2008"
+},
+{
+"date": "2008 Q2",
+"label": "2008 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13710",
+"year": "2008"
+},
+{
+"date": "2008 Q3",
+"label": "2008 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13670",
+"year": "2008"
+},
+{
+"date": "2008 Q4",
+"label": "2008 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13659",
+"year": "2008"
+},
+{
+"date": "2009 Q1",
+"label": "2009 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13627",
+"year": "2009"
+},
+{
+"date": "2009 Q2",
+"label": "2009 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13575",
+"year": "2009"
+},
+{
+"date": "2009 Q3",
+"label": "2009 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13622",
+"year": "2009"
+},
+{
+"date": "2009 Q4",
+"label": "2009 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13665",
+"year": "2009"
+},
+{
+"date": "2010 Q1",
+"label": "2010 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13616",
+"year": "2010"
+},
+{
+"date": "2010 Q2",
+"label": "2010 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13653",
+"year": "2010"
+},
+{
+"date": "2010 Q3",
+"label": "2010 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13689",
+"year": "2010"
+},
+{
+"date": "2010 Q4",
+"label": "2010 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13645",
+"year": "2010"
+},
+{
+"date": "2011 Q1",
+"label": "2011 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13749",
+"year": "2011"
+},
+{
+"date": "2011 Q2",
+"label": "2011 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13719",
+"year": "2011"
+},
+{
+"date": "2011 Q3",
+"label": "2011 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "13690",
+"year": "2011"
+},
+{
+"date": "2011 Q4",
+"label": "2011 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "13710",
+"year": "2011"
+},
+{
+"date": "2012 Q1",
+"label": "2012 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "13733",
+"year": "2012"
+},
+{
+"date": "2012 Q2",
+"label": "2012 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2015-10-13T23:00:00.000Z",
+"value": "13801",
+"year": "2012"
+},
+{
+"date": "2012 Q3",
+"label": "2012 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "13862",
+"year": "2012"
+},
+{
+"date": "2012 Q4",
+"label": "2012 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "13962",
+"year": "2012"
+},
+{
+"date": "2013 Q1",
+"label": "2013 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2017-05-16T23:00:00.000Z",
+"value": "13969",
+"year": "2013"
+},
+{
+"date": "2013 Q2",
+"label": "2013 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14005",
+"year": "2013"
+},
+{
+"date": "2013 Q3",
+"label": "2013 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14053",
+"year": "2013"
+},
+{
+"date": "2013 Q4",
+"label": "2013 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2016-05-18T08:30:00.000Z",
+"value": "14157",
+"year": "2013"
+},
+{
+"date": "2014 Q1",
+"label": "2014 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14268",
+"year": "2014"
+},
+{
+"date": "2014 Q2",
+"label": "2014 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14369",
+"year": "2014"
+},
+{
+"date": "2014 Q3",
+"label": "2014 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14424",
+"year": "2014"
+},
+{
+"date": "2014 Q4",
+"label": "2014 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14503",
+"year": "2014"
+},
+{
+"date": "2015 Q1",
+"label": "2015 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14571",
+"year": "2015"
+},
+{
+"date": "2015 Q2",
+"label": "2015 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14576",
+"year": "2015"
+},
+{
+"date": "2015 Q3",
+"label": "2015 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2017-05-16T23:00:00.000Z",
+"value": "14657",
+"year": "2015"
+},
+{
+"date": "2015 Q4",
+"label": "2015 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14706",
+"year": "2015"
+},
+{
+"date": "2016 Q1",
+"label": "2016 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14724",
+"year": "2016"
+},
+{
+"date": "2016 Q2",
+"label": "2016 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14834",
+"year": "2016"
+},
+{
+"date": "2016 Q3",
+"label": "2016 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14885",
+"year": "2016"
+},
+{
+"date": "2016 Q4",
+"label": "2016 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14944",
+"year": "2016"
+},
+{
+"date": "2017 Q1",
+"label": "2017 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "14986",
+"year": "2017"
+},
+{
+"date": "2017 Q2",
+"label": "2017 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "15055",
+"year": "2017"
+},
+{
+"date": "2017 Q3",
+"label": "2017 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "15085",
+"year": "2017"
+},
+{
+"date": "2017 Q4",
+"label": "2017 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "15119",
+"year": "2017"
+},
+{
+"date": "2018 Q1",
+"label": "2018 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "15216",
+"year": "2018"
+},
+{
+"date": "2018 Q2",
+"label": "2018 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "15226",
+"year": "2018"
+},
+{
+"date": "2018 Q3",
+"label": "2018 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "15229",
+"year": "2018"
+},
+{
+"date": "2018 Q4",
+"label": "2018 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2019-02-19T00:00:00.000Z",
+"value": "15308",
+"year": "2018"
+},
+{
+"date": "2019 Q1",
+"label": "2019 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2019-05-13T23:00:00.000Z",
+"value": "15422",
+"year": "2019"
+},
+{
+"date": "2019 Q2",
+"label": "2019 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2019-08-12T23:00:00.000Z",
+"value": "15548",
+"year": "2019"
+},
+{
+"date": "2019 Q3",
+"label": "2019 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2019-11-12T00:00:00.000Z",
+"value": "15455",
+"year": "2019"
+},
+{
+"date": "2019 Q4",
+"label": "2019 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2020-02-18T00:00:00.000Z",
+"value": "15605",
+"year": "2019"
+},
+{
+"date": "2020 Q1",
+"label": "2020 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15694",
+"year": "2020"
+},
+{
+"date": "2020 Q2",
+"label": "2020 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15493",
+"year": "2020"
+},
+{
+"date": "2020 Q3",
+"label": "2020 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15449",
+"year": "2020"
+},
+{
+"date": "2020 Q4",
+"label": "2020 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15366",
+"year": "2020"
+},
+{
+"date": "2021 Q1",
+"label": "2021 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15411",
+"year": "2021"
+},
+{
+"date": "2021 Q2",
+"label": "2021 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15461",
+"year": "2021"
+},
+{
+"date": "2021 Q3",
+"label": "2021 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15548",
+"year": "2021"
+},
+{
+"date": "2021 Q4",
+"label": "2021 Q4",
+"month": "",
+"quarter": "Q4",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15555",
+"year": "2021"
+},
+{
+"date": "2022 Q1",
+"label": "2022 Q1",
+"month": "",
+"quarter": "Q1",
+"sourceDataset": "LMS",
+"updateDate": "2022-06-13T23:00:00.000Z",
+"value": "15583",
+"year": "2022"
+},
+{
+"date": "2022 Q2",
+"label": "2022 Q2",
+"month": "",
+"quarter": "Q2",
+"sourceDataset": "LMS",
+"updateDate": "2022-08-15T23:00:00.000Z",
+"value": "15625",
+"year": "2022"
+},
+{
+"date": "2022 Q3",
+"label": "2022 Q3",
+"month": "",
+"quarter": "Q3",
+"sourceDataset": "LMS",
+"updateDate": "2022-11-15T00:00:00.000Z",
+"value": "15631",
+"year": "2022"
+}

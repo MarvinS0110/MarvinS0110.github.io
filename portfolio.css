@@ -1,0 +1,183 @@
+/* Portfolio css */
+
+body{
+    background: linear-gradient(
+        to right,
+        #D9D9D9 0%,
+        #D9D9D9 50%,
+        #94a5f2 50%,
+        #94a5f2 100%
+        );
+    max-width: 1000px;
+    margin: auto;
+}
+
+/* Code for the navigation bar found on W3Schools */
+
+.topnav {
+  overflow: hidden;
+  background-color: #B7B6B6;
+  width: 1000px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 0px;
+  text-decoration: none;
+  font-size: 22px;
+  font-family: 'Nunito', sans-serif;
+  cursor: pointer;
+  width: 333.3333px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #94a5f2;
+  color: white;
+}
+
+.container{
+    background-color: transparent;
+    text-align: center;
+} 
+
+p{
+    color:black;
+    font-family: 'Nunito', sans-serif;
+} 
+
+h2{
+    color: black;
+    font-family: 'Major Mono Display', monospace;
+}
+
+h1{
+    color: black;
+    font-family: 'Train One', cursive;
+    font-size: 50px;
+}  
+
+.title{
+    background-color: transparent;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+}    
+    
+.homework{
+    background-color: transparent;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+}     
+
+.chart{
+    background-color: white;
+    width:450px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #bd3f37;
+    margin: 20px 275px 20px 275px;
+}
+
+.chart2{
+    background-color: white;
+    width:450px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #94a5f2;
+    margin: 10px;
+}
+
+.chart3{
+    background-color: white;
+    width:450px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #B7B6B6;
+    margin: 10px;
+}
+
+.chart4{
+    background-color: white;
+    width:550px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #bd3f37;
+    margin: 20px 225px 20px 225px;
+}
+
+.chartcontainer{
+    text-align: center;
+    align-items: flex-start;
+    display: inline-block;
+    width: 1000px;
+    margin: 20px 0px 20px 0px;
+}
+
+.png{
+    background-color: white;
+    width:450px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #bd3f37;
+    margin: 30px 275px 30px 275px;
+}  
+
+.flex-container{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: black;
+}
+
+/* Code for horizontal black line */
+
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: transparent;
+    color: black;
+    width: 1000px;
+    border-top: 1px solid black;
+}
+
+hr.dotted{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: transparent;
+    color: black;
+    width: 1000px;
+    border-top: 4px dotted black;
+}
+
+.map-flex{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+ 

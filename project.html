@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<!-- ///////////////////  HEAD //////////////////////////////////// -->
+
+<head>
+
+<!--The next three lines allow the Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+  
+<title>Marvin's Portfolio</title>
+  
+<link rel="stylesheet" href="portfolio.css">
+  
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+</style>  
+  
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+</style>   
+  
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Monofett&family=Train+One&display=swap');
+</style>  
+
+</head>
+
+<!-- /////////////////// END HEAD //////////////////////////////////// -->
+
+
+
+<!-- ///////////////////  START BODY //////////////////////////////////// -->
+
+
+<body>
+  
+    <!--Code for the navigation bar found on W3Schools-->    
+<div class="topnav" id="myTopnav">
+  <a onclick="window.location.href = 'index.html'" >Home</a>
+  <a onclick="window.location.href = 'portfolio.html'" class="active">Portfolio</a>
+  <a onclick="window.location.href = 'project.html'" >Project</a>
+</div> 
+
+
+
+  <div class="container">
+<h1> A study of labour issues in the UK </h1>
+ </div>    
+  
+  <hr>
+
+<div class="title">
+<h2>Reason for chosing this topic <h2> </div>
+<p>Over the past three years, the world has experienced COVID-19 infections, with at least 70% of the UK population having been infected with the COVID-19 virus. Although the current Omicron variant is now much less virulent than the original strain and does not appear to be able to cause great harm to humans, the side-effects of COVID-19 illness still need to be a concern. This report will therefore look at the data to see what is wrong with the British labour market after the ourbreak of the covid-19 pandemic.<p>
+
+<hr>
+
+<div class="title">
+  <h2>UK labour market overview <h2> </div>
+    <div class="chart" id="Chart3"> </div>
+      <p> As can be seen from the chart, the global economic crisis of 2008 has had a significant impact on the employment rate in the UK. From 2008 onwards, the employment rate in the UK fell by three percentage points in three years, reaching a ten-year low of 70% in 2011. After this, the employment rate in the UK continued to climb until covid-19 exploded in 2020. Probably due to a combination of Brexit and covid-19, the employment rate in 2021 is 1.6 percentage points lower than in 2020, the worst employment crisis in almost 30 years. However this did not have a long-term impact on the UK, and employment rates slowly recovered in 2022 as the UK gradually opened up to the outside world.<p>
+    </div>
+
+  <hr>
+  <div class="title">
+    <h2>Ripple effects of fluctuating employment rates <h2> </div>
+      <div class="chart4" id="Chart2"> </div>
+    <p>The most important reason for the decrease in employment is the economic recession. Therefore, in 2021, the happiness index of UK residents is likely to decrease due to the epidemic embargo and the economic depression it brings. Therefore, this report finds the happiness index of the UK population from 2020 to 2022. As can be seen from the chart, there is a significant decrease in the happiness index of UK residents in 2021 due to the impact of covid-19 and Brexit, and a basic recovery in 2022. This also gives a side-effect on the employment situation in the UK.<p>
+    </div> 
+    
+    <hr>
+
+    <div class="title">
+      <h2>Employment in special sectors <h2> </div>
+        <div class="chart" id="Chart1"> </div>
+     
+        <p> The chart shows that more people are working in natinoal health service in the UK from 2013 to 2022, especially after 2018. This shows that the spread of covid-19 has led to an increase in the population's demand for healthcare coverage and therefore employment in this field is continuing to increase. This shows that the UK labour market is resilient to external changes.<p>
+        </div> 
+      
+      <hr>
+
+      <div class="title">
+        <h2>Sexism in the UK workplace<h2> </div>
+          
+          <div class="chartcontainer">
+
+          <div class="chart" id="Chart4"> </div>
+            <div class="chart" id="Chart5"> </div>
+
+            </div>
+            <p>As can be seen from the trends in the two graphs, gender discrimination in the British labour market was still quite high until 1995. It was not until after 1995 that employment trends for men and women converged, but there were still around two million more male workers than female workers. This is a gap that the UK needs to work hard to smooth out.<p>
+          </div> 
+        
+        <hr>
+
+        <div class="title">
+          <h2>Conclusion<h2> </div>
+          <p>As you can see from the image above, there is a significant drop in employment in the UK in 2021. This could be due to the combined effect of the epidemic and Brexit. Despite this, the UK adjusted back in a year's time and employment levels in 2022 are largely in line with those in 2020. This demonstrates the UK's strong resilience. On the other hand, however, despite significant improvements since 1995, gender discrimination in the UK workplace has been a persistent problem. This is an issue that needs to be taken seriously by the UK government.<p>
+          </div> 
+          
+          <hr>
+
+
+ </body>
+
+ <script>    
+  var myChart1 = "1chart_project.json";
+  var myChart2 = "2chart_project.json";
+  var mychart3 = "3chart_project.json";
+  var mychart4 = "4chart_project.json";
+  var mychart5 = "5chart_project.json";
+
+  vegaEmbed('#Chart1', myChart1);
+  vegaEmbed('#Chart2', myChart2);
+  vegaEmbed('#Chart3', mychart3);
+  vegaEmbed('#Chart4', mychart4);
+  vegaEmbed('#Chart5', mychart5);
+    
+        </script>        
+    </body>
+    
+    </html>

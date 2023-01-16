@@ -1,0 +1,245 @@
+<!--Portfolio HTML-->
+
+<!DOCTYPE html>
+
+<!-- ///////////////////  HEAD //////////////////////////////////// -->
+
+<head>
+
+<!--The next three lines allow the Vega embed-->
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+  
+<title>Marvin's Portfolio</title>
+  
+<link rel="stylesheet" href="portfolio.css">
+  
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+</style>  
+  
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+</style>   
+  
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Monofett&family=Train+One&display=swap');
+</style>  
+
+</head>
+
+<!-- /////////////////// END HEAD //////////////////////////////////// -->
+
+
+
+<!-- ///////////////////  START BODY //////////////////////////////////// -->
+
+
+<body>
+  
+    <!--Code for the navigation bar found on W3Schools-->    
+<div class="topnav" id="myTopnav">
+  <a onclick="window.location.href = 'index.html'" >Home</a>
+  <a onclick="window.location.href = 'portfolio.html'" class="active">Portfolio</a>
+  <a onclick="window.location.href = 'project.html'" >Project</a>
+</div> 
+
+
+
+  <div class="container">
+<h1>PORTFOLIO</h1>
+ </div>    
+  
+  <hr>
+ 
+
+    <div class="title"> 
+<h2>Week 1</h2>
+    </div>
+  
+ 
+
+ <div class="homework">
+   <p>The <span style="color:rgb(43, 4, 182)"><b>first chart</b></span> on my page tracks Covid-19 cases by UK region.</p> 
+   <p>The <span style="color:rgb(43, 4, 182)"><b>second chart</b></span> on my page looks at productivity in the UK.</p>
+</div>
+
+  
+  <div class="chartcontainer">
+    
+<!--Chart 1 -->
+  <div class="chart2" id="chart1">
+      <script>
+        var myChart1 = "chart1_portfolio.json";
+        vegaEmbed('#chart1', myChart1);
+      </script>
+   </div>
+ 
+<!--Chart 2 -->
+  <div class="chart2" id="chart2">
+    <script>
+      var myChart2 = "chart2_portfolio.json";
+      vegaEmbed('#chart2', myChart2);
+    </script>
+  </div>
+    
+  </div>
+  
+  <hr>
+
+
+
+
+<div class="title">
+<h2>Week 2</h2>
+<h3>IMF Lending Outstanding</h3>
+        <p>The  <span style="color:rgb(43, 4, 182)"><b>third chart</b></span>  shows the IMF Lending in absolute terms</p>
+
+        <div class="chart" id="Chart3"></div>
+
+<h3>IMF Lending Outstanding as percentage of World GDP</h3>
+<p>The  <span style="color:rgb(43, 4, 182)"><b>fourth chart</b></span>  indicates the IMF lending relative to World GDP</p>
+
+<div class="chart" id="Chart4"> </div>
+
+<p>The first chart shows that the year with the highest risk is 2021. However, after clarifying the relationship between IMF lending and world GDP, the most risky year becomes 1984.</p>
+    </div>
+  
+  
+  <hr>
+  
+  <div class="title">
+    <h2>Week 3</h2>
+    <p>The  <span style="color:rgb(43, 4, 182)"><b>fifth chart</b></span>  looks at the fertility rate of a few countries in Asia, and the data is represented in a stacked bar chart.</p>
+    <div class="chart" id="Chart5"></div>
+
+    <p>The  <span style="color:rgb(43, 4, 182)"><b>sixth chart</b></span>   better shows the yearly changes in each countries' fertility rates and is easier to see the fertility rates at any given point.</p>
+    <div class="chart" id="Chart6"></div>
+
+        </div>
+      
+      
+
+      <hr>
+
+      <div class="title">
+      <h2>Week 4</h2>
+      <h3>Population Growth in the UK (Annual %)</h3>
+      <div class="chart" id="Chart7"></div>
+      <p>The  <span style="color:rgb(43, 4, 182)"><b>7th chart</b></span>   shows the annual percentage growth in the UK from 1961-2021. I chose to extract data from the
+          World Bank website as it is a reliable source, updated with the latest trends. </p>
+   
+    </div>
+
+    <hr>
+
+    <div class="title">
+    <h2>Week 5</h2> 
+    <p> This task involved using ONS API to loop download nine different series as JSON files.</p>
+    <p class="rubric-launch">The python code is <a class="textLink" href="">here:</a></p> 
+
+    <div class="flex-container">
+      <div class="chart" id="Chart8"></div>
+      <div class="chart" id="Chart9"></div>
+      <div class="chart" id="Chart10"></div>
+      <div class="chart" id="Chart11"></div>
+      <div class="chart" id="Chart12"></div>
+      <div class="chart" id="Chart13"></div>
+      <div class="chart" id="Chart14"></div>
+      <div class="chart" id="Chart15"></div>
+      <div class="chart" id="Chart16"></div>
+    </div> 
+
+    <hr>
+    <div class="title">
+    <h2>Week 7</h2>
+    <p>Here are two maps, a base map of South America and a map showing deforestation in South America from 2010-2015. Deforestation is measured in 1000 hectares removed per year.  </p>
+    <div class="map-flex">
+    <div class="chart" id="Chart17"></div>
+    <div class="chart" id="Chart18"></div>
+    </div>
+  </div>
+
+  <hr>
+  
+  <div class="title"></div>
+  <h2> Week 8</h2>
+  <h3> Festival of Economics: Prices and Wages</h3>
+  <p> An argument made was that asset price inflation is a rising concern because house prices are increasing faster than wages, disproportionally affecting the young. </p>
+  <div class="chartcontainer">
+  <div class="chart" id="Chart19"></div>
+  <div class="chart" id="Chart20"></div>
+  </div>
+  <p> Both charts support the argument made as house prices are increasing faster and the older population have a greater proportion of property value </p>
+  
+  
+  <hr>
+  <div class="title"></div>
+  <h2>Week 9</h2>
+
+  <div class="chartcontainer">
+      <div class="chart" id="Chart21"></div>
+      <div class="chart" id="Chart22"></div>
+  </div>
+        
+
+
+
+      </div>
+    </body>
+
+
+    <script>    
+      var myChart1 = "chart1_portfolio.json";
+      var myChart2 = "chart2_portfolio.json";
+      var mychart3 = "chart3_portfolio.json";
+      var mychart4 = "chart4_portfolio.json";
+      var mychart5 = "chart5_portfolio.json";
+      var mychart6 = "chart6_portfolio.json";
+      var mychart7 = "chart7_portfolio.json";
+      var mychart8 = "chart8_portfolio.json";
+      var mychart9 = "chart9_portfolio.json";
+      var mychart10 = "chart10_portfolio.json";
+      var mychart11 = "chart11_portfolio.json";
+      var mychart12 = "chart12_portfolio.json";
+      var mychart13 = "chart13_portfolio.json";
+      var mychart14 = "chart14_portfolio.json";
+      var mychart15 = "chart15_portfolio.json";
+      var mychart16 = "chart16_portfolio.json";
+      var mychart17 = "chart17_portfolio.json";
+      var mychart18 = "chart18_portfolio.json";
+      var mychart19 = "chart19_portfolio.json";
+      var mychart20 = "chart20_portfolio.json";
+      var mychart21 = "chart21_portfolio.json";
+      var mychart22 = "chart22_portfolio.json";
+
+      vegaEmbed('#Chart1', myChart1);
+      vegaEmbed('#Chart2', myChart2);
+      vegaEmbed('#Chart3', mychart3);
+      vegaEmbed('#Chart4', mychart4);
+      vegaEmbed('#Chart5', mychart5);
+      vegaEmbed('#Chart6', mychart6);
+      vegaEmbed('#Chart7', mychart7);
+      vegaEmbed('#Chart8', mychart8);
+      vegaEmbed('#Chart9', mychart9);
+      vegaEmbed('#Chart10', mychart10);
+      vegaEmbed('#Chart11', mychart11);
+      vegaEmbed('#Chart12', mychart12);
+      vegaEmbed('#Chart13', mychart13);
+      vegaEmbed('#Chart14', mychart14);
+      vegaEmbed('#Chart15', mychart15);
+      vegaEmbed('#Chart16', mychart16);
+      vegaEmbed('#Chart17', mychart17);
+      vegaEmbed('#Chart18', mychart18);
+      vegaEmbed('#Chart19', mychart19);
+      vegaEmbed('#Chart20', mychart20);
+      vegaEmbed('#Chart21', mychart21);
+      vegaEmbed('#Chart22', mychart22);
+
+    </script>        
+</body>
+
+</html>
